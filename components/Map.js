@@ -10,7 +10,7 @@ function Map (){
     layers={[
         {
             image: 'https://all4desktop.com/data_images/original/4221852-sky-colors.jpg',
-            amount: 0.2,
+            amount: 1,
         },
         {
             image: 'https://i.imgur.com/duAPviR.png',
